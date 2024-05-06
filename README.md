@@ -2,20 +2,6 @@
 
 This repository contains implementations of various unsupervised learning algorithms. Below are the projects included:
 
-## Gradient Descent Variants
-
-### 1. Batch Gradient Descent
-
-Description: Implementation of the batch gradient descent algorithm for optimizing machine learning models.
-
-### 2. Mini-Batch Gradient Descent
-
-Description: Implementation of the mini-batch gradient descent algorithm, which balances efficiency and convergence speed by updating model parameters on small random subsets of the training data.
-
-### 3. Stochastic Gradient Descent
-
-Description: Implementation of the stochastic gradient descent algorithm, which updates model parameters based on the gradient of the loss function computed on a single training example.
-
 ## Clustering Algorithms
 
 ### 1. Hierarchical Clustering
